@@ -89,12 +89,12 @@ for page in list(range(13)):
                 print(info)
                 
                 df = pd.DataFrame(data_info)
-                df.to_csv("Data/Download.csv")
+                df.to_csv("Data/DownloadedReport.csv")
             except:
                 print(page, batch, row_number)
                 fail_array.append([page, batch, row_number])
                 fail_df = pd.DataFrame(fail_array)
-                fail_df.to_csv("Data/Download.csv")
+                fail_df.to_csv("Data/FailToDownload.csv")
         
         shadow_host_xpath = "/html/body/app-root/app-industry-view/carbon-sidebar-layout/div/carbon-sidebar-layout/div[1]/app-main-grid/coral-panel/app-emerald-grid/emerald-grid"
         shadow_host = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, shadow_host_xpath)))
