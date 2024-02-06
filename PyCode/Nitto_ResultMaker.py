@@ -22,7 +22,7 @@ import tensorflow.keras.backend as K
 from tensorflow.keras.models import load_model
 from transformers import TFBertModel
 
-CPT_esg_trendency = '`quixotic-sol-387506.CPT_results.CPT_esg_trendency_elec_ESG03`'
+#CPT_esg_trendency = '`quixotic-sol-387506.CPT_results.CPT_esg_trendency_elec_ESG03`'
 
 def precision(y_true, y_pred):
     true_positives = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
@@ -76,8 +76,7 @@ if __name__ == '__main__':
                   model_i12)
 
     
-    #file_list = glob("AnnualReport10K/*.pdf")
-    file_list = glob("AnnualReportJapan/*/*.pdf")
+    file_list = glob("NittoAnnualReport/*.pdf")
     
     file_to_use = []
     
@@ -123,14 +122,12 @@ if __name__ == '__main__':
             result_dict['no_valid_file'] = True
             print(result_dict)
         
-        df = pd.DataFrame([result_dict])
-        credentials = Credentials.from_service_account_file('Key/BQ_key.json')
-        to_gbq(df, destination_table = 'CPT_results.CPT_esg_trendency_elec_ESG03',
-               project_id='quixotic-sol-387506', if_exists='append',
-               credentials=credentials, progress_bar=False)
+        result_dict_list.append(result_dict)
         
         print(f'\nwe are in {i+Begin_Point} file!')
         
+    df = pd.DataFrame(result_dict_list)
+    df.to_csv('NittoResult.csv')
 
 
 

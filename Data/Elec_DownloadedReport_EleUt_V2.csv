@@ -1,0 +1,478 @@
+,0,1,2,3,4
+0,ASRE.PK,31-Aug-2023,US,Electric Utilities (NEC),24535884
+1,TVC.N,30-Sep-2023,US,Electric Utilities (NEC),231400522
+2,SPEV.PK,28-Feb-2023,US,Power Charging Stations,231031961
+3,CHJI.PK,31-Dec-2022,US,Shell Companies,23823581
+4,PEGY.OQ,31-Dec-2022,US,Electric Utilities (NEC),23820823
+5,OIGBQ.PK,31-Dec-2022,US,Electric Utilities (NEC),23807500
+6,NVVE.OQ,31-Dec-2022,US,Power Charging Stations,23789354
+7,VGAS.OQ,31-Dec-2022,US,Shell Companies,23788509
+8,—,31-Dec-2022,US,Corporate Financial Services (NEC),23787759
+9,—,31-Dec-2022,US,Electric Utilities (NEC),23787100
+10,CLIN.OQ,31-Dec-2022,US,Shell Companies,23781533
+11,EVGO.OQ,31-Dec-2022,US,Power Charging Stations,23781487
+12,SPRU.N,31-Dec-2022,US,Solar Electric Utilities,23781110
+13,AMPS.N,31-Dec-2022,US,Solar Electric Utilities,23777053
+14,—,31-Dec-2022,US,Electric Utilities (NEC),23776237
+15,VIA.OQ,31-Dec-2022,US,Electric Utilities (NEC),23775444
+16,—,31-Dec-2022,US,"Corporate Financial Services (NEC)
++1",23775393
+17,—,31-Dec-2022,US,"Corporate Financial Services (NEC)
++1",23775304
+18,CPWPO.PK^C13,31-Dec-2022,US,"Electric Utilities (NEC)
++1",23774572
+19,—,31-Dec-2022,US,Electric Utilities (NEC),23774545
+20,FLPWP.PK^C13,31-Dec-2022,US,Electric Utilities (NEC),23774524
+21,—,31-Dec-2022,US,Electric Utilities (NEC),23770129
+22,—,31-Dec-2022,US,"Electric Utilities (NEC)
++1",23765757
+23,—,31-Dec-2022,US,Electric Utilities (NEC),23765371
+24,—,31-Dec-2022,US,"—
++2",23759534
+25,—,31-Dec-2022,US,Electric Utilities (NEC),23758513
+26,TLGA.N,31-Dec-2022,US,Shell Companies,23747257
+27,MNTK.OQ,31-Dec-2022,US,Biomass & Waste to Energy Electric Utilities,23739455
+28,SMR.N,31-Dec-2022,US,Nuclear Utilities,23736361
+29,BLNK.OQ,31-Dec-2022,US,Electrical Components & Equipment (NEC),23732115
+30,—,31-Dec-2022,US,—,23731338
+31,—,31-Dec-2022,US,Electric Utilities (NEC),23722607
+32,REII.PK,30-Nov-2022,US,Electric Utilities (NEC),23716177
+33,CNL.N^D16,31-Dec-2022,US,Electric Utilities (NEC),23715278
+34,IPL.N^C01,31-Dec-2022,US,Electric Utilities (NEC),23694495
+35,DPL.N^K11,31-Dec-2022,US,Electric Utilities (NEC),23694461
+36,VST.N,31-Dec-2022,US,Electric Utilities (NEC),23690186
+37,—,31-Dec-2022,US,Electric Utilities (NEC),23684621
+38,SDO_ph.A^J13,31-Dec-2022,US,"Electric Utilities (NEC)
++2",23684078
+39,PNM.N,31-Dec-2022,US,Electric Utilities (NEC),23678455
+40,HAWLI.PK,31-Dec-2022,US,Electric Utilities (NEC),23672950
+41,AZD.N^A00,31-Dec-2022,US,Electric Utilities (NEC),23670171
+42,—,31-Dec-2022,US,"Electric Utilities (NEC)
++2",23669263
+43,—,31-Dec-2022,US,"Electric Utilities (NEC)
++2",23669940
+44,LNT.OQ,31-Dec-2022,US,Electric Utilities (NEC),23666947
+45,EGRKM.PK^K18,31-Dec-2022,US,"Electric Utilities (NEC)
++1",23664591
+46,ORA.N,31-Dec-2022,US,Alternative Electric Utilities,23662767
+47,PSD.N^B09,31-Dec-2022,US,Electric Utilities (NEC),23661863
+48,EVRG.OQ,31-Dec-2022,US,Electric Utilities (NEC),23661229
+49,NRG.N,31-Dec-2022,US,Electric Utilities (NEC),23661092
+50,—,31-Dec-2022,US,Electric Utilities (NEC),23660542
+51,NEP.N,31-Dec-2022,US,Electric Utilities (NEC),23661087
+52,EIX.N,31-Dec-2022,US,Electric Utilities (NEC),23659725
+53,—,31-Dec-2022,US,Electric Utilities (NEC),23659360
+54,—,31-Dec-2022,US,Electric Utilities (NEC),23659159
+55,SPS.N^H97,31-Dec-2022,US,Electric Utilities (NEC),23659094
+56,—,31-Dec-2022,US,Electric Utilities (NEC),23659085
+57,XEL.OQ,31-Dec-2022,US,Electric Utilities (NEC),23659072
+58,—,31-Dec-2022,US,Electric Utilities (NEC),23656044
+59,WIPSI.PK^K15,31-Dec-2022,US,Electric Utilities (NEC),23656025
+60,WELPP.PK,31-Dec-2022,US,Electric Utilities (NEC),23655993
+61,WEC.N,31-Dec-2022,US,Electric Utilities (NEC),23655972
+62,TAECM.PK^L04,31-Dec-2022,US,Electric Utilities (NEC),23655819
+63,PCG.N,31-Dec-2022,US,Electric Utilities (NEC),23655758
+64,OGE.N,31-Dec-2022,US,"Electric Utilities (NEC)
++1",23655349
+65,AGR.N,31-Dec-2022,US,Electric Utilities (NEC),23653133
+66,MGEE.OQ,31-Dec-2022,US,Electric Utilities (NEC),23651347
+67,AEE.N,31-Dec-2022,US,"Multiline Utilities
++1",23650271
+68,SCG_p.N^L09,31-Dec-2022,US,Electric Utilities (NEC),23645246
+69,D.N,31-Dec-2022,US,Electric Utilities (NEC),23645207
+70,ELB.N^L03,31-Dec-2022,US,Electric Utilities (NEC),23642987
+71,KUTLP.PK^J05,31-Dec-2022,US,"Electric Utilities (NEC)
++1",23641805
+72,CNP.N,31-Dec-2022,US,"Multiline Utilities
++2",23640214
+73,CEDNM.PK^E12,31-Dec-2022,US,"Multiline Utilities
++1",23639013
+74,IDA.N,31-Dec-2022,US,Electric Utilities (NEC),23637196
+75,ALP_pq.N^J22,31-Dec-2022,US,"Electric Utilities (NEC)
++1",23636607
+76,POR.N,31-Dec-2022,US,Electric Utilities (NEC),23636777
+77,ALE.N,31-Dec-2022,US,Electric Utilities (NEC),23636639
+78,CNLPL.PK,31-Dec-2022,US,Electric Utilities (NEC),23636504
+79,OTTR.OQ,31-Dec-2022,US,Electric Utilities (NEC),23634871
+80,ANTEM.PK^C11,31-Dec-2022,US,Electric Utilities (NEC),23631423
+81,FE.N,31-Dec-2022,US,Electric Utilities (NEC),23619615
+82,ITC.N^J16,31-Dec-2022,US,Electric Utilities (NEC),23608512
+83,—,31-Dec-2022,US,Electric Utilities (NEC),23608506
+84,CMS.N,31-Dec-2022,US,"Multiline Utilities
++1",23601540
+85,ASRE.PK,31-Aug-2022,US,Electric Utilities (NEC),221462760
+86,TVC.N,30-Sep-2022,US,Electric Utilities (NEC),221388607
+87,JEh.V^L22,31-Mar-2022,CA,Electric Utilities (NEC),221141897
+88,USBL.PK,28-Feb-2022,US,Professional Sports Venues,221017655
+89,VLTA.N,31-Dec-2021,US,Power Charging Stations,22830713
+90,CHJI.PK,31-Dec-2021,US,Shell Companies,22810436
+91,NVVE.OQ,31-Dec-2021,US,Power Charging Stations,22794551
+92,OIGBQ.PK,31-Dec-2021,US,Electric Utilities (NEC),22794007
+93,—,31-Dec-2021,US,"Corporate Financial Services (NEC)
++1",22789031
+94,—,31-Dec-2021,US,Electric Utilities (NEC),22787531
+95,CPWPO.PK^C13,31-Dec-2021,US,"Electric Utilities (NEC)
++1",22785096
+96,—,31-Dec-2021,US,Electric Utilities (NEC),22785067
+97,CENQ.OQ,31-Dec-2021,US,Shell Companies,22782520
+98,FLPWP.PK^C13,31-Dec-2021,US,Electric Utilities (NEC),22780546
+99,—,31-Dec-2021,US,Electric Utilities (NEC),22776319
+100,—,31-Dec-2021,US,Electric Utilities (NEC),22776293
+101,—,31-Dec-2021,US,Electric Utilities (NEC),22772841
+102,—,31-Dec-2021,US,"Corporate Financial Services (NEC)
++1",22772162
+103,—,31-Dec-2021,US,Electric Utilities (NEC),22771738
+104,—,31-Dec-2021,US,"—
++2",22771383
+105,—,31-Dec-2021,US,Electric Utilities (NEC),22771207
+106,TLGA.N,31-Dec-2021,US,Shell Companies,22770219
+107,AMPS.N,31-Dec-2021,US,Solar Electric Utilities,22767442
+108,—,31-Dec-2021,US,Corporate Financial Services (NEC),22766136
+109,EVGO.OQ,31-Dec-2021,US,Power Charging Stations,22764617
+110,LFG.N^L22,31-Dec-2021,US,Electric Utilities (NEC),22753096
+111,WGEI.PK,31-Dec-2021,US,Electric Utilities (NEC),22751888
+112,BLNK.OQ,31-Dec-2021,US,Electrical Components & Equipment (NEC),22745674
+113,MNTK.OQ,31-Dec-2021,US,Biomass & Waste to Energy Electric Utilities,22745475
+114,—,31-Dec-2021,US,—,22739493
+115,PEGY.OQ,31-Dec-2021,US,Electric Utilities (NEC),22736608
+116,SMR.N,31-Dec-2021,US,Nuclear Utilities,22730096
+117,—,31-Dec-2021,US,Electric Utilities (NEC),22724931
+118,CNL.N^D16,31-Dec-2021,US,Electric Utilities (NEC),22719526
+119,VIA.OQ,31-Dec-2021,US,Electric Utilities (NEC),22707524
+120,PNM.N,31-Dec-2021,US,Electric Utilities (NEC),22698113
+121,SPRU.N,31-Dec-2021,US,Solar Electric Utilities,22699318
+122,DPL.N^K11,31-Dec-2021,US,Electric Utilities (NEC),22683865
+123,IPL.N^C01,31-Dec-2021,US,Electric Utilities (NEC),22683844
+124,AES.N,31-Dec-2021,US,Electric Utilities (NEC),22683808
+125,—,31-Dec-2021,US,"Electric Utilities (NEC)
++1",22682538
+126,—,31-Dec-2021,US,Electric Utilities (NEC),22683184
+127,HAWLI.PK,31-Dec-2021,US,Electric Utilities (NEC),22681027
+128,—,31-Dec-2021,US,Electric Utilities (NEC),22680267
+129,SDO_ph.A^J13,31-Dec-2021,US,"Electric Utilities (NEC)
++2",22679453
+130,ORA.N,31-Dec-2021,US,Alternative Electric Utilities,22678801
+131,EGRKM.PK^K18,31-Dec-2021,US,"Electric Utilities (NEC)
++1",22675629
+132,AZD.N^A00,31-Dec-2021,US,Electric Utilities (NEC),22674655
+133,VST.N,31-Dec-2021,US,Electric Utilities (NEC),22674448
+134,PSD.N^B09,31-Dec-2021,US,Electric Utilities (NEC),22673617
+135,EVRG.OQ,31-Dec-2021,US,Electric Utilities (NEC),22673188
+136,OGE.N,31-Dec-2021,US,"Electric Utilities (NEC)
++1",22665235
+137,EIX.N,31-Dec-2021,US,Electric Utilities (NEC),22671013
+138,NRG.N,31-Dec-2021,US,Electric Utilities (NEC),22672559
+139,—,31-Dec-2021,US,"Electric Utilities (NEC)
++2",22669356
+140,SCG_p.N^L09,31-Dec-2021,US,Electric Utilities (NEC),22669222
+141,D.N,31-Dec-2021,US,Electric Utilities (NEC),22669065
+142,WIPSI.PK^K15,31-Dec-2021,US,Electric Utilities (NEC),22666912
+143,WELPP.PK,31-Dec-2021,US,Electric Utilities (NEC),22666821
+144,WEC.N,31-Dec-2021,US,Electric Utilities (NEC),22666707
+145,—,31-Dec-2021,US,Electric Utilities (NEC),22666564
+146,OGE.N,31-Dec-2021,US,"Electric Utilities (NEC)
++1",22665234
+147,AGR.N,31-Dec-2021,US,Electric Utilities (NEC),22663500
+148,XEL.OQ,31-Dec-2021,US,Electric Utilities (NEC),22663100
+149,—,31-Dec-2021,US,Electric Utilities (NEC),22663115
+150,SPS.N^H97,31-Dec-2021,US,Electric Utilities (NEC),22663120
+151,—,31-Dec-2021,US,Electric Utilities (NEC),22663114
+152,MGEE.OQ,31-Dec-2021,US,Electric Utilities (NEC),22661225
+153,NEP.N,31-Dec-2021,US,Electric Utilities (NEC),22659940
+154,CNP.N,31-Dec-2021,US,"Multiline Utilities
++2",22654834
+155,LNT.OQ,31-Dec-2021,US,Electric Utilities (NEC),22651869
+156,KUTLP.PK^J05,31-Dec-2021,US,"Electric Utilities (NEC)
++1",22651674
+157,ELB.N^L03,31-Dec-2021,US,Electric Utilities (NEC),22650799
+158,CEDNM.PK^E12,31-Dec-2021,US,"Multiline Utilities
++1",22649159
+159,IDA.N,31-Dec-2021,US,Electric Utilities (NEC),22645695
+160,CNLPL.PK,31-Dec-2021,US,Electric Utilities (NEC),22645087
+161,ALP_pq.N^J22,31-Dec-2021,US,"Electric Utilities (NEC)
++1",22644867
+162,POR.N,31-Dec-2021,US,Electric Utilities (NEC),22645230
+163,OTTR.OQ,31-Dec-2021,US,Electric Utilities (NEC),22644191
+164,FE.N,31-Dec-2021,US,Electric Utilities (NEC),22643856
+165,ALE.N,31-Dec-2021,US,Electric Utilities (NEC),22640482
+166,TAECM.PK^L04,31-Dec-2021,US,Electric Utilities (NEC),22624486
+167,ITC.N^J16,31-Dec-2021,US,Electric Utilities (NEC),22616603
+168,—,31-Dec-2021,US,Electric Utilities (NEC),22612010
+169,CMS.N,31-Dec-2021,US,"Multiline Utilities
++1",22611763
+170,PCG.N,31-Dec-2021,US,Electric Utilities (NEC),22609648
+171,REII.PK,30-Nov-2021,US,Electric Utilities (NEC),211532723
+172,TVC.N,30-Sep-2021,US,Electric Utilities (NEC),211405122
+173,WGEI.PK,31-Dec-2020,US,Electric Utilities (NEC),211330379
+174,USBL.PK,28-Feb-2021,US,Professional Sports Venues,211072400
+175,USBL.PK,29-Feb-2020,US,Professional Sports Venues,21988390
+176,BLNK.OQ,31-Dec-2020,US,Electrical Components & Equipment (NEC),21794827
+177,MNTK.OQ,31-Dec-2020,US,Biomass & Waste to Energy Electric Utilities,21794817
+178,SPRU.N,31-Dec-2020,US,Solar Electric Utilities,21794478
+179,AMPS.N,31-Dec-2020,US,Solar Electric Utilities,21793393
+180,PEGY.OQ,31-Dec-2020,US,Electric Utilities (NEC),21792792
+181,SMR.N,31-Dec-2020,US,Nuclear Utilities,21792395
+182,—,31-Dec-2020,US,"—
++2",21788758
+183,FLPWP.PK^C13,31-Dec-2020,US,Electric Utilities (NEC),21787559
+184,LFG.N^L22,31-Dec-2020,US,Electric Utilities (NEC),21786895
+185,OIGBQ.PK,31-Dec-2020,US,Electric Utilities (NEC),21783726
+186,—,31-Dec-2020,US,Electric Utilities (NEC),21778302
+187,—,31-Dec-2020,US,"Corporate Financial Services (NEC)
++1",21777830
+188,—,31-Dec-2020,US,Electric Utilities (NEC),21772821
+189,—,31-Dec-2020,US,Electric Utilities (NEC),21767539
+190,—,31-Dec-2020,US,Electric Utilities (NEC),21759156
+191,—,31-Dec-2020,US,—,21725225
+192,—,31-Dec-2020,US,Electric Utilities (NEC),21716981
+193,VIA.OQ,31-Dec-2020,US,Electric Utilities (NEC),21713163
+194,CNL.N^D16,31-Dec-2020,US,Electric Utilities (NEC),21710336
+195,NRG.N,31-Dec-2020,US,Electric Utilities (NEC),21698234
+196,PNM.N,31-Dec-2020,US,Electric Utilities (NEC),21697963
+197,AGR.N,31-Dec-2020,US,Electric Utilities (NEC),21697672
+198,—,31-Dec-2020,US,"Electric Utilities (NEC)
++1",21692764
+199,—,31-Dec-2020,US,Electric Utilities (NEC),21695046
+200,ORA.N,31-Dec-2020,US,Alternative Electric Utilities,21691400
+201,HAWLI.PK,31-Dec-2020,US,Electric Utilities (NEC),21687627
+202,VST.N,31-Dec-2020,US,Electric Utilities (NEC),21683819
+203,EVRG.OQ,31-Dec-2020,US,Electric Utilities (NEC),21683620
+204,PSD.N^B09,31-Dec-2020,US,Electric Utilities (NEC),21682909
+205,OGE.N,31-Dec-2020,US,"Electric Utilities (NEC)
++1",21675541
+206,SDO_ph.A^J13,31-Dec-2020,US,"Electric Utilities (NEC)
++2",21681374
+207,—,31-Dec-2020,US,Electric Utilities (NEC),21681647
+208,EIX.N,31-Dec-2020,US,Electric Utilities (NEC),21680423
+209,WIPSI.PK^K15,31-Dec-2020,US,Electric Utilities (NEC),21678472
+210,WELPP.PK,31-Dec-2020,US,Electric Utilities (NEC),21678413
+211,WEC.N,31-Dec-2020,US,Electric Utilities (NEC),21678288
+212,—,31-Dec-2020,US,Electric Utilities (NEC),21676559
+213,PCG.N,31-Dec-2020,US,Electric Utilities (NEC),21676565
+214,SCG_p.N^L09,31-Dec-2020,US,Electric Utilities (NEC),21676568
+215,D.N,31-Dec-2020,US,Electric Utilities (NEC),21676541
+216,CNP.N,31-Dec-2020,US,"Multiline Utilities
++2",21676290
+217,AES.N,31-Dec-2020,US,Electric Utilities (NEC),21675495
+218,OGE.N,31-Dec-2020,US,"Electric Utilities (NEC)
++1",21675542
+219,IPL.N^C01,31-Dec-2020,US,Electric Utilities (NEC),21675571
+220,DPL.N^K11,31-Dec-2020,US,Electric Utilities (NEC),21675546
+221,AZD.N^A00,31-Dec-2020,US,Electric Utilities (NEC),21668677
+222,AEE.N,31-Dec-2020,US,"Multiline Utilities
++1",21661514
+223,OTTR.OQ,31-Dec-2020,US,Electric Utilities (NEC),21655067
+224,LNT.OQ,31-Dec-2020,US,Electric Utilities (NEC),21654587
+225,—,31-Dec-2020,US,Electric Utilities (NEC),21654063
+226,POR.N,31-Dec-2020,US,Electric Utilities (NEC),21651411
+227,CEDNM.PK^E12,31-Dec-2020,US,"Multiline Utilities
++1",21650181
+228,IDA.N,31-Dec-2020,US,Electric Utilities (NEC),21647705
+229,FE.N,31-Dec-2020,US,Electric Utilities (NEC),21647625
+230,ALP_pq.N^J22,31-Dec-2020,US,"Electric Utilities (NEC)
++1",21646497
+231,CNLPL.PK,31-Dec-2020,US,Electric Utilities (NEC),21646372
+232,—,31-Dec-2020,US,Electric Utilities (NEC),21644836
+233,—,31-Dec-2020,US,Electric Utilities (NEC),21644767
+234,—,31-Dec-2020,US,Electric Utilities (NEC),21644766
+235,SPS.N^H97,31-Dec-2020,US,Electric Utilities (NEC),21644765
+236,XEL.OQ,31-Dec-2020,US,Electric Utilities (NEC),21644284
+237,ALE.N,31-Dec-2020,US,Electric Utilities (NEC),21641594
+238,NEP.N,31-Dec-2020,US,Electric Utilities (NEC),21641007
+239,ELB.N^L03,31-Dec-2020,US,Electric Utilities (NEC),21627282
+240,—,31-Dec-2020,US,Electric Utilities (NEC),21622705
+241,ITC.N^J16,31-Dec-2020,US,Electric Utilities (NEC),21622576
+242,CMS.N,31-Dec-2020,US,"Multiline Utilities
++1",21616853
+243,REII.PK,30-Nov-2020,US,Electric Utilities (NEC),21576490
+244,TVC.N,30-Sep-2020,US,Electric Utilities (NEC),201318654
+245,ALTND.PK^K20,31-Dec-2019,US,Solar Electric Utilities,201221462
+246,TRNFQ.PK,31-Dec-2019,US,Fossil Fuel Electric Utilities,20903420
+247,BLNK.OQ,31-Dec-2019,US,Electrical Components & Equipment (NEC),20770275
+248,OIGBQ.PK,31-Dec-2019,US,Electric Utilities (NEC),20758222
+249,SUME.PK,31-Dec-2019,US,Electric Utilities (NEC),20753094
+250,FLPWP.PK^C13,31-Dec-2019,US,Electric Utilities (NEC),20752823
+251,—,31-Dec-2019,US,"Corporate Financial Services (NEC)
++1",20751766
+252,—,31-Dec-2019,US,Electric Utilities (NEC),20750672
+253,—,31-Dec-2019,US,Electric Utilities (NEC),20750545
+254,—,31-Dec-2019,US,Electric Utilities (NEC),20749165
+255,—,31-Dec-2019,US,Electric Utilities (NEC),20749123
+256,—,31-Dec-2019,US,Electric Utilities (NEC),20749108
+257,—,31-Dec-2019,US,"—
++2",20746944
+258,—,31-Dec-2019,US,Electric Utilities (NEC),20733087
+259,—,31-Dec-2019,US,Electric Utilities (NEC),20731930
+260,TERP.OQ^H20,31-Dec-2019,US,Alternative Electric Utilities,20721751
+261,PEGY.OQ,31-Dec-2019,US,Electric Utilities (NEC),20720251
+262,—,31-Dec-2019,US,Electric Utilities (NEC),20714398
+263,—,31-Dec-2019,US,Electric Utilities (NEC),20708519
+264,—,31-Dec-2019,US,—,20704201
+265,VIA.OQ,31-Dec-2019,US,Electric Utilities (NEC),20689953
+266,CNL.N^D16,31-Dec-2019,US,Electric Utilities (NEC),20683856
+267,AGR.N,31-Dec-2019,US,Electric Utilities (NEC),20677186
+268,PNM.N,31-Dec-2019,US,Electric Utilities (NEC),20677011
+269,—,31-Dec-2019,US,Electric Utilities (NEC),20675606
+270,ORA.N,31-Dec-2019,US,Alternative Electric Utilities,20674779
+271,EVRG.OQ,31-Dec-2019,US,Electric Utilities (NEC),20674161
+272,AEE.N,31-Dec-2019,US,"Multiline Utilities
++1",20672703
+273,VST.N,31-Dec-2019,US,Electric Utilities (NEC),20665913
+274,SCG_p.N^L09,31-Dec-2019,US,Electric Utilities (NEC),20665917
+275,DPL.N^K11,31-Dec-2019,US,Electric Utilities (NEC),20664441
+276,IPL.N^C01,31-Dec-2019,US,Electric Utilities (NEC),20664439
+277,AES.N,31-Dec-2019,US,Electric Utilities (NEC),20664389
+278,NRG.N,31-Dec-2019,US,Electric Utilities (NEC),20663296
+279,EIX.N,31-Dec-2019,US,Electric Utilities (NEC),20662183
+280,—,31-Dec-2019,US,Electric Utilities (NEC),20661732
+281,WIPSI.PK^K15,31-Dec-2019,US,Electric Utilities (NEC),20659845
+282,WELPP.PK,31-Dec-2019,US,Electric Utilities (NEC),20659725
+283,WEC.N,31-Dec-2019,US,Electric Utilities (NEC),20659490
+284,OGE.N,31-Dec-2019,US,Electric Utilities (NEC),20657588
+285,CNLPL.PK,31-Dec-2019,US,Electric Utilities (NEC),20657752
+286,EE.N^G20,31-Dec-2019,US,Electric Utilities (NEC),20658215
+287,MGEE.OQ,31-Dec-2019,US,Electric Utilities (NEC),20657954
+288,—,31-Dec-2019,US,Fossil Fuel Electric Utilities,20657586
+289,CPN.N^C18,31-Dec-2019,US,Electric Utilities (NEC),20646951
+290,PSD.N^B09,31-Dec-2019,US,Electric Utilities (NEC),20640855
+291,—,31-Dec-2019,US,Electric Utilities (NEC),20640139
+292,—,31-Dec-2019,US,Electric Utilities (NEC),20640016
+293,—,31-Dec-2019,US,Electric Utilities (NEC),20640019
+294,SPS.N^H97,31-Dec-2019,US,Electric Utilities (NEC),20640008
+295,XEL.OQ,31-Dec-2019,US,Electric Utilities (NEC),20639617
+296,AZD.N^A00,31-Dec-2019,US,Electric Utilities (NEC),20637470
+297,CEDNM.PK^E12,31-Dec-2019,US,"Multiline Utilities
++1",20636198
+298,OTTR.OQ,31-Dec-2019,US,Electric Utilities (NEC),20635163
+299,IDA.N,31-Dec-2019,US,Electric Utilities (NEC),20632598
+300,NEP.N,31-Dec-2019,US,Electric Utilities (NEC),20625867
+301,—,31-Dec-2019,US,Electric Utilities (NEC),20624735
+302,TAECM.PK^L04,31-Dec-2019,US,Electric Utilities (NEC),20623228
+303,POR.N,31-Dec-2019,US,Electric Utilities (NEC),20612375
+304,—,31-Dec-2019,US,Electric Utilities (NEC),20606956
+305,ITC.N^J16,31-Dec-2019,US,Electric Utilities (NEC),20606917
+306,ALE.N,31-Dec-2019,US,Electric Utilities (NEC),20606200
+307,FE.N,31-Dec-2019,US,Electric Utilities (NEC),20589305
+308,CMS.N,31-Dec-2019,US,"Multiline Utilities
++1",20581133
+309,—,31-Dec-2019,US,Electric Utilities (NEC),20578494
+310,REII.PK,30-Nov-2019,US,Electric Utilities (NEC),20554739
+311,TVC.N,30-Sep-2019,US,Electric Utilities (NEC),191221835
+312,USBL.PK,28-Feb-2019,US,Professional Sports Venues,191051338
+313,—,31-May-2018,US,Electric Utilities (NEC),19907489
+314,SUME.PK,31-Dec-2018,US,Electric Utilities (NEC),19744087
+315,VSPC.PK,31-Dec-2018,US,Biomass & Waste to Energy Electric Utilities,19731494
+316,BLNK.OQ,31-Dec-2018,US,Electrical Components & Equipment (NEC),19721791
+317,—,31-Dec-2018,US,Electric Utilities (NEC),19718040
+318,—,31-Dec-2018,US,Electric Utilities (NEC),19717584
+319,—,31-Dec-2018,US,"Corporate Financial Services (NEC)
++1",19716366
+320,—,31-Dec-2018,US,"—
++2",19715573
+321,—,31-Dec-2018,US,Electric Utilities (NEC),19711761
+322,—,31-Dec-2018,US,Electric Utilities (NEC),19711658
+323,—,31-Dec-2018,US,Electric Utilities (NEC),19711617
+324,—,31-Dec-2018,US,Electric Utilities (NEC),19708503
+325,FLPWP.PK^C13,31-Dec-2018,US,Electric Utilities (NEC),19705772
+326,—,31-Dec-2018,US,Electric Utilities (NEC),19703472
+327,—,31-Dec-2018,US,Corporate Financial Services (NEC),19703462
+328,OIGBQ.PK,31-Dec-2018,US,Electric Utilities (NEC),19688252
+329,TERP.OQ^H20,31-Dec-2018,US,Alternative Electric Utilities,19686052
+330,—,31-Dec-2018,US,Electric Utilities (NEC),19671104
+331,PEGY.OQ,31-Dec-2018,US,Electric Utilities (NEC),19669097
+332,—,31-Dec-2018,US,Electric Utilities (NEC),19667843
+333,—,31-Dec-2018,US,—,19657755
+334,VIA.OQ,31-Dec-2018,US,Electric Utilities (NEC),19654373
+335,ORA.N,31-Dec-2018,US,Alternative Electric Utilities,19648889
+336,PNM.N,31-Dec-2018,US,Electric Utilities (NEC),19648043
+337,AGR.N,31-Dec-2018,US,Electric Utilities (NEC),19646605
+338,—,31-Dec-2018,US,Electric Utilities (NEC),19645364
+339,EE.N^G20,31-Dec-2018,US,Electric Utilities (NEC),19645111
+340,PCG.N,31-Dec-2018,US,Electric Utilities (NEC),19644917
+341,D.N,31-Dec-2018,US,"Electric Utilities (NEC)
++1",19644860
+342,SCG_p.N^L09,31-Dec-2018,US,Electric Utilities (NEC),19644064
+343,NRG.N,31-Dec-2018,US,Electric Utilities (NEC),19643990
+344,EIX.N,31-Dec-2018,US,Electric Utilities (NEC),19643337
+345,REII.PK,30-Nov-2018,US,Electric Utilities (NEC),19641776
+346,CNP.N,31-Dec-2018,US,"Multiline Utilities
++2",19640301
+347,AES.N,31-Dec-2018,US,Electric Utilities (NEC),19635020
+348,IPL.N^C01,31-Dec-2018,US,Electric Utilities (NEC),19635076
+349,DPL.N^K11,31-Dec-2018,US,Electric Utilities (NEC),19635080
+350,CNL.N^D16,31-Dec-2018,US,Electric Utilities (NEC),19635522
+351,AEE.N,31-Dec-2018,US,"Multiline Utilities
++1",19634581
+352,—,31-Dec-2018,US,Electric Utilities (NEC),19634380
+353,WIPSI.PK^K15,31-Dec-2018,US,Electric Utilities (NEC),19633558
+354,WELPP.PK,31-Dec-2018,US,Electric Utilities (NEC),19633164
+355,OTTR.OQ,31-Dec-2018,US,Electric Utilities (NEC),19625589
+356,MGEE.OQ,31-Dec-2018,US,Electric Utilities (NEC),19625580
+357,LNT.OQ,31-Dec-2018,US,Electric Utilities (NEC),19625544
+358,—,31-Dec-2018,US,Electric Utilities (NEC),19625232
+359,—,31-Dec-2018,US,Electric Utilities (NEC),19625207
+360,—,31-Dec-2018,US,Electric Utilities (NEC),19625206
+361,SPS.N^H97,31-Dec-2018,US,Electric Utilities (NEC),19625166
+362,XEL.OQ,31-Dec-2018,US,Electric Utilities (NEC),19625051
+363,AZD.N^A00,31-Dec-2018,US,Electric Utilities (NEC),19624026
+364,CEDNM.PK^E12,31-Dec-2018,US,"Multiline Utilities
++1",19622803
+365,PSD.N^B09,31-Dec-2018,US,Electric Utilities (NEC),19621946
+366,IDA.N,31-Dec-2018,US,Electric Utilities (NEC),19620555
+367,—,31-Dec-2018,US,Fossil Fuel Electric Utilities,19619675
+368,—,31-Dec-2018,US,Electric Utilities (NEC),19619955
+369,OGE.N,31-Dec-2018,US,Electric Utilities (NEC),19619672
+370,FE.N,31-Dec-2018,US,Electric Utilities (NEC),19615625
+371,NEP.N,31-Dec-2018,US,Electric Utilities (NEC),19615524
+372,TAECM.PK^L04,31-Dec-2018,US,Electric Utilities (NEC),19613299
+373,ITC.N^J16,31-Dec-2018,US,Electric Utilities (NEC),19609930
+374,—,31-Dec-2018,US,Electric Utilities (NEC),19609847
+375,POR.N,31-Dec-2018,US,Electric Utilities (NEC),19608779
+376,ALE.N,31-Dec-2018,US,Electric Utilities (NEC),19599029
+377,—,31-Dec-2018,US,Electric Utilities (NEC),19574370
+378,TVC.N,30-Sep-2018,US,Electric Utilities (NEC),181185367
+379,PRHL.PK,31-Dec-2017,US,Electric Utilities (NEC),181111738
+380,USBL.PK,28-Feb-2018,US,Professional Sports Venues,18990940
+381,FNEC.PK,31-Dec-2017,US,Wind Electric Utilities,18890473
+382,BLNK.OQ,31-Dec-2017,US,Electrical Components & Equipment (NEC),18759822
+383,PEGY.OQ,31-Dec-2017,US,Electric Utilities (NEC),18744040
+384,VSPC.PK,31-Dec-2017,US,Biomass & Waste to Energy Electric Utilities,18729589
+385,—,31-Dec-2017,US,"—
++2",18725777
+386,SUME.PK,31-Dec-2017,US,Electric Utilities (NEC),18723049
+387,—,31-Dec-2017,US,Electric Utilities (NEC),18722385
+388,FLPWP.PK^C13,31-Dec-2017,US,Electric Utilities (NEC),18722122
+389,—,31-Dec-2017,US,Corporate Financial Services (NEC),18715817
+390,—,31-Dec-2017,US,Electric Utilities (NEC),18715818
+391,AGR.N,31-Dec-2017,US,Electric Utilities (NEC),18713321
+392,—,31-Dec-2017,US,Electric Utilities (NEC),18709974
+393,—,31-Dec-2017,US,Electric Utilities (NEC),18706092
+394,—,31-Dec-2017,US,Electric Utilities (NEC),18706075
+395,—,31-Dec-2017,US,Electric Utilities (NEC),18706072
+396,—,31-Dec-2017,US,Electric Utilities (NEC),18703201
+397,ORA.N,31-Dec-2017,US,Alternative Electric Utilities,18695139
+398,OIGBQ.PK,31-Dec-2017,US,Electric Utilities (NEC),18688266
+399,VIA.OQ,31-Dec-2017,US,Electric Utilities (NEC),18678770
+400,—,31-Dec-2017,US,Electric Utilities (NEC),18678615
+401,—,31-Dec-2017,US,Electric Utilities (NEC),18677197
+402,HTM.A^D18,31-Dec-2017,US,Electric Utilities (NEC),18676729
+403,—,31-Dec-2017,US,"—
++1",18675927
+404,TERP.OQ^H20,31-Dec-2017,US,Alternative Electric Utilities,18673478
+405,AT.N^E21,31-Dec-2017,CA,Electric Utilities (NEC),18658728
+406,NRG.N,31-Dec-2017,US,Electric Utilities (NEC),18657444
+407,—,31-Dec-2017,US,Electric Utilities (NEC),18657085
+408,PNM.N,31-Dec-2017,US,Electric Utilities (NEC),18654824
+409,WIPSI.PK^K15,31-Dec-2017,US,Electric Utilities (NEC),18649395
+410,WELPP.PK,31-Dec-2017,US,Electric Utilities (NEC),18649341
+411,WEC.N,31-Dec-2017,US,Electric Utilities (NEC),18649298
+412,D.N,31-Dec-2017,US,"Electric Utilities (NEC)
++1",18643148
+413,AES.N,31-Dec-2017,US,Electric Utilities (NEC),18642233
+414,DPL.N^K11,31-Dec-2017,US,Electric Utilities (NEC),18642328
+415,IPL.N^C01,31-Dec-2017,US,Electric Utilities (NEC),18642326
+416,—,31-Dec-2017,US,Electric Utilities (NEC),18642564
+417,VST.N,31-Dec-2017,US,Electric Utilities (NEC),18638635
+418,—,31-Dec-2017,US,Electric Utilities (NEC),18637876
+419,AZD.N^A00,31-Dec-2017,US,Electric Utilities (NEC),18634716
+420,—,31-Dec-2017,US,Electric Utilities (NEC),18637869
