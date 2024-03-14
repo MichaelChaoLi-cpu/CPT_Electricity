@@ -43,13 +43,29 @@ iframe_xpath = '/html/body/ui-view/div/ui-view/div/div[2]/iframe'
 iframe_element = driver.find_element(By.XPATH, iframe_xpath)
 driver.switch_to.frame(iframe_element)
 
-data_info = []
-fail_array = []
-
 ### need to be downloaded
 DCN_list = load('Data/df_downloaded_file_list.joblib')
 DCN_list = DCN_list['DCN'].to_list()
 
+DCN_have_first = pd.read_csv("Data/Elec_DownloadedReport_EleUt_V2.csv",
+                             index_col=0)
+DCN_have_first.columns = ['X1', 'X2', 'X3', 'X4', 'DCN']
+DCN_have_first = DCN_have_first['DCN'].to_list()
+
+DCN_have_second = pd.read_csv("Data/Elec_DownloadedReport_EleUt_V2_second.csv",
+                             index_col=0)
+DCN_have_second.columns = ['X1', 'X2', 'X3', 'X4', 'DCN']
+DCN_have_second = DCN_have_second['DCN'].to_list()
+
+DCN_have_third = pd.read_csv("Data/Elec_DownloadedReport_EleUt_V2_third.csv",
+                             index_col=0)
+DCN_have_third.columns = ['X1', 'X2', 'X3', 'X4', 'DCN']
+DCN_have_third = DCN_have_third['DCN'].to_list()
+        
+DCN_list = DCN_have_first + DCN_have_second + DCN_list + DCN_have_third
+
+data_info = []
+fail_array = []
 
 for page in list(range(14)):
     for batch in list(range(10)):
@@ -68,7 +84,7 @@ for page in list(range(14)):
                     shadow_root = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, shadow_host_xpath))).shadow_root
                     element_within_shadow_xpath = f'#section0 > div.tr-lg > div.grid-pane.columns > div > div:nth-child(4) > div:nth-child({row_number}) > button > div > app-icon:nth-child(2) > coral-icon'
                     WebDriverWait(shadow_root, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, element_within_shadow_xpath))).click()
-                    time.sleep(120)
+                    time.sleep(300)
                     
                     shadow_host_xpath = "/html/body/app-root/app-industry-view/carbon-sidebar-layout/div/carbon-sidebar-layout/div[1]/app-main-grid/coral-panel/app-emerald-grid/emerald-grid"
                     shadow_root = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, shadow_host_xpath))).shadow_root
@@ -117,19 +133,19 @@ for page in list(range(14)):
                     print(info)
                     
                     df = pd.DataFrame(data_info)
-                    df.to_csv("Data/Elec_DownloadedReport_EleUt_V2.csv")
+                    df.to_csv("Data/Elec_DownloadedReport_EleUt_V2_fourth.csv")
             except:
                 print(page, batch, row_number)
                 fail_array.append([page, batch, row_number])
                 fail_df = pd.DataFrame(fail_array)
-                fail_df.to_csv("Data/Elec_DownloadedReport_EleUt_V2.csv")
+                fail_df.to_csv("Data/Elec_DownloadedReport_EleUt_V2_fail_fourth.csv")
         
         shadow_host_xpath = "/html/body/app-root/app-industry-view/carbon-sidebar-layout/div/carbon-sidebar-layout/div[1]/app-main-grid/coral-panel/app-emerald-grid/emerald-grid"
         shadow_host = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, shadow_host_xpath)))
         shadow_root = driver.execute_script('return arguments[0].shadowRoot', shadow_host)
         scrollable_element_selector = 'div.grid-scrollbar.grid-vscroll.grid-scroll-fadeout'
         scrollable_element = shadow_root.find_element(By.CSS_SELECTOR, scrollable_element_selector)
-        driver.execute_script("arguments[0].scrollTop += 630;", scrollable_element)
+        driver.execute_script("arguments[0].scrollTop += 700;", scrollable_element)
         time.sleep(2)
         
     shadow_host_xpath_download = "/html/body/app-root/app-industry-view/carbon-sidebar-layout/div/carbon-sidebar-layout/div[1]/app-main-grid/coral-panel/app-emerald-grid/div/span/emerald-pagination"

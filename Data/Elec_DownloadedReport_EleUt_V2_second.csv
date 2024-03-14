@@ -1,0 +1,267 @@
+,0,1,2,3,4
+0,AES.N,31-Dec-2022,US,Electric Utilities (NEC),23694366
+1,—,31-Dec-2022,US,Electric Utilities (NEC),23659148
+2,CEG.OQ,31-Dec-2022,US,Electric Utilities (NEC),23637520
+3,—,31-Dec-2021,US,Electric Utilities (NEC),22663111
+4,—,31-Dec-2021,US,Electric Utilities (NEC),22616621
+5,—,31-Dec-2020,US,Electric Utilities (NEC),21781348
+6,—,31-Dec-2020,US,Electric Utilities (NEC),21781312
+7,MGEE.OQ,31-Dec-2020,US,Electric Utilities (NEC),21670562
+8,TAECM.PK^L04,31-Dec-2020,US,Electric Utilities (NEC),21631857
+9,—,31-Dec-2019,US,Electric Utilities (NEC),20742497
+10,LNT.OQ,31-Dec-2019,US,Electric Utilities (NEC),20638937
+11,PCG.N,31-Dec-2019,US,Electric Utilities (NEC),20623645
+12,CPN.N^C18,31-Dec-2018,US,Electric Utilities (NEC),19711834
+13,VST.N,31-Dec-2018,US,Electric Utilities (NEC),19644184
+14,AT.N^E21,31-Dec-2018,CA,Electric Utilities (NEC),19644551
+15,HAWLI.PK,31-Dec-2018,US,Electric Utilities (NEC),19644171
+16,WEC.N,31-Dec-2018,US,Electric Utilities (NEC),19632940
+17,ELB.N^L03,31-Dec-2018,US,Electric Utilities (NEC),19612528
+18,CMS.N,31-Dec-2018,US,"Multiline Utilities
++1",19566176
+19,—,31-Dec-2017,US,Fossil Fuel Electric Utilities,18725401
+20,PSD.N^B09,31-Dec-2017,US,Electric Utilities (NEC),18659724
+21,AEE.N,31-Dec-2017,US,"Multiline Utilities
++1",18651808
+22,—,31-Dec-2017,US,Electric Utilities (NEC),18637871
+23,—,31-Dec-2016,US,Electric Utilities (NEC),17726374
+24,—,31-Dec-2016,US,Electric Utilities (NEC),17721982
+25,—,31-Dec-2016,US,Electric Utilities (NEC),17721965
+26,—,31-Dec-2016,US,Electric Utilities (NEC),17676268
+27,AT.N^E21,31-Dec-2016,CA,Electric Utilities (NEC),17659893
+28,ORA.N,31-Dec-2016,US,Alternative Electric Utilities,17653082
+29,AEP.OQ,31-Dec-2016,US,Electric Utilities (NEC),17644005
+30,—,31-Dec-2016,US,Electric Utilities (NEC),17646307
+31,WELPP.PK,31-Dec-2016,US,Electric Utilities (NEC),17646142
+32,WIPSI.PK^K15,31-Dec-2016,US,Electric Utilities (NEC),17646205
+33,PNM.N,31-Dec-2016,US,Electric Utilities (NEC),17648577
+34,D.N,31-Dec-2016,US,"Electric Utilities (NEC)
++1",17644781
+35,AES.N,31-Dec-2016,US,Electric Utilities (NEC),17638773
+36,IPL.N^C01,31-Dec-2016,US,Electric Utilities (NEC),17638823
+37,AZD.N^A00,31-Dec-2016,US,Electric Utilities (NEC),17634857
+38,SCG_p.N^L09,31-Dec-2016,US,Electric Utilities (NEC),17638396
+39,EE.N^G20,31-Dec-2016,US,Electric Utilities (NEC),17638386
+40,—,31-Dec-2016,US,Electric Utilities (NEC),17636620
+41,—,31-Dec-2016,US,Electric Utilities (NEC),17636627
+42,—,31-Dec-2016,US,Electric Utilities (NEC),17636623
+43,XEL.OQ,31-Dec-2016,US,Electric Utilities (NEC),17636569
+44,MGEE.OQ,31-Dec-2016,US,Electric Utilities (NEC),17635446
+45,AZD.N^A00,31-Dec-2016,US,Electric Utilities (NEC),17634857
+46,NEP.N,31-Dec-2016,US,Electric Utilities (NEC),17632429
+47,ELB.N^L03,31-Dec-2016,US,Electric Utilities (NEC),17632371
+48,—,31-Dec-2016,US,Electric Utilities (NEC),17636623
+49,XEL.OQ,31-Dec-2016,US,Electric Utilities (NEC),17636569
+50,LNT.OQ,31-Dec-2016,US,Electric Utilities (NEC),17636404
+51,MGEE.OQ,31-Dec-2016,US,Electric Utilities (NEC),17635446
+52,AZD.N^A00,31-Dec-2016,US,Electric Utilities (NEC),17634857
+53,NEP.N,31-Dec-2016,US,Electric Utilities (NEC),17632429
+54,ELB.N^L03,31-Dec-2016,US,Electric Utilities (NEC),17632371
+55,CNLPL.PK,31-Dec-2016,US,Electric Utilities (NEC),17630365
+56,WREGH.PK^F02,31-Dec-2016,US,Electric Utilities (NEC),17629214
+57,CNL.N^D16,31-Dec-2016,US,Electric Utilities (NEC),17628843
+58,OTTR.OQ,31-Dec-2016,US,Electric Utilities (NEC),17627566
+59,CEDNM.PK^E12,31-Dec-2016,US,"Multiline Utilities
++1",17618515
+60,ITC.N^J16,31-Dec-2016,US,Electric Utilities (NEC),17616584
+61,—,31-Dec-2016,US,Electric Utilities (NEC),17616498
+62,CPN.N^C18,31-Dec-2016,US,Electric Utilities (NEC),17589245
+63,CAFD.OQ^F18,30-Nov-2016,US,Solar Electric Utilities,17550647
+64,BFYW.PK,31-Aug-2016,US,Wind Systems & Equipment,162010940
+65,TVC.N,30-Sep-2016,US,Electric Utilities (NEC),161996863
+66,PSWW.PK,31-Dec-2015,US,Electric Utilities (NEC),161571025
+67,USBL.PK,29-Feb-2016,US,Professional Sports Venues,161560079
+68,AGR.N,31-Dec-2015,US,Electric Utilities (NEC),161546781
+69,—,31-Dec-2015,US,Electric Utilities (NEC),161526455
+70,—,31-Dec-2015,US,Electric Utilities (NEC),161470784
+71,—,31-Dec-2015,US,Electric Utilities (NEC),161457547
+72,—,31-Dec-2015,US,Electric Utilities (NEC),161452811
+73,AES.N,31-Dec-2015,US,Electric Utilities (NEC),161449925
+74,DPL.N^K11,31-Dec-2015,US,Electric Utilities (NEC),161449958
+75,ELB.N^L03,31-Dec-2015,US,Electric Utilities (NEC),161442963
+76,TVC.N,30-Sep-2015,US,Electric Utilities (NEC),151245946
+77,AEE.N,31-Dec-2014,US,"Multiline Utilities
++1",15663854
+78,ORA.N,31-Dec-2014,US,Alternative Electric Utilities,15653974
+79,CNLPL.PK,31-Dec-2014,US,Electric Utilities (NEC),15649044
+80,—,31-Dec-2014,US,Electric Utilities (NEC),15640576
+81,CMS.N,31-Dec-2014,US,"Multiline Utilities
++1",15577634
+82,TVC.N,30-Sep-2014,US,Electric Utilities (NEC),141225746
+83,SIPFO.PK^F06,31-Dec-2013,US,Electric Utilities (NEC),14729306
+84,PPWLO.PK,31-Dec-2013,US,Electric Utilities (NEC),14659040
+85,D.N,31-Dec-2013,US,Electric Utilities (NEC),14650442
+86,SDO_ph.A^J13,31-Dec-2013,US,"Electric Utilities (NEC)
++2",14649271
+87,CNLPL.PK,31-Dec-2013,US,Electric Utilities (NEC),14641263
+88,HAWLI.PK,31-Dec-2013,US,Electric Utilities (NEC),14634202
+89,—,31-Dec-2012,US,Electric Utilities (NEC),13658759
+90,D.N,31-Dec-2012,US,Electric Utilities (NEC),13650288
+91,—,31-Dec-2012,US,Fossil Fuel Electric Utilities,13647358
+92,WELPP.PK,31-Dec-2012,US,Electric Utilities (NEC),13646691
+93,LNT.OQ,31-Dec-2012,US,Electric Utilities (NEC),13643716
+94,LNT.OQ,31-Dec-2012,US,Electric Utilities (NEC),13643716
+95,CHG.N^F13,31-Dec-2012,US,Electric Utilities (NEC),13639686
+96,—,31-Dec-2012,US,Electric Utilities (NEC),13639380
+97,CEDNM.PK^E12,31-Dec-2012,US,"Multiline Utilities
++1",13630583
+98,TXHCO.PK^J05,31-Dec-2012,US,Electric Utilities (NEC),13621414
+99,—,31-Dec-2012,US,Electric Utilities (NEC),13621410
+100,GREW.PK^D19,31-Dec-2011,US,Electric Utilities (NEC),12760548
+101,FNEC.PK,31-Dec-2011,US,Wind Electric Utilities,12698252
+102,WIPSI.PK^K15,31-Dec-2011,US,Electric Utilities (NEC),12649360
+103,NRG.N,31-Dec-2011,US,Electric Utilities (NEC),12645931
+104,NCEN.PK,31-Mar-2011,US,Wind Electric Utilities,11968153
+105,—,31-Dec-2010,US,Electric Utilities (NEC),11698921
+106,GEN.N^L12,31-Dec-2010,US,Fossil Fuel Electric Utilities,11648962
+107,FLPWP.PK^C13,31-Dec-2010,US,"Electric Utilities (NEC)
++1",11646777
+108,EE.N^G20,31-Dec-2010,US,Electric Utilities (NEC),11646365
+109,LNT.OQ,31-Dec-2010,US,Electric Utilities (NEC),11645488
+110,AEE.N,31-Dec-2010,US,"Multiline Utilities
++2",11635020
+111,CEDNM.PK^E12,31-Dec-2010,US,"Multiline Utilities
++1",11628603
+112,—,31-Dec-2010,US,Electric Utilities (NEC),11622648
+113,TVC.N,30-Sep-2010,US,Electric Utilities (NEC),101204782
+114,ANTEM.PK^C11,31-Dec-2009,US,Electric Utilities (NEC),10635244
+115,—,31-Dec-2009,US,Electric Utilities (NEC),10635914
+116,CNL.N^D16,31-Dec-2009,US,Electric Utilities (NEC),10634621
+117,ALP_pq.N^J22,31-Dec-2009,US,Electric Utilities (NEC),10634096
+118,CNL.N^D16,31-Dec-2009,US,Electric Utilities (NEC),10634621
+119,ALP_pq.N^J22,31-Dec-2009,US,Electric Utilities (NEC),10634096
+120,—,31-Dec-2009,PH,Electric Utilities (NEC),10625779
+121,IDA.N,31-Dec-2009,US,Electric Utilities (NEC),10624335
+122,WGEI.PK,31-Dec-2008,US,Electric Utilities (NEC),09749464
+123,—,31-Dec-2008,US,Electric Utilities (NEC),09687121
+124,AEE.N,31-Dec-2008,US,"Multiline Utilities
++2",09647955
+125,ANTEM.PK^C11,31-Dec-2008,US,Electric Utilities (NEC),09647655
+126,FLPWP.PK^C13,31-Dec-2008,US,"Electric Utilities (NEC)
++1",09646880
+127,BGLEN.PK^I16,31-Dec-2008,US,"Electric Utilities (NEC)
++1",09643894
+128,AES.N,31-Dec-2008,US,Electric Utilities (NEC),09638854
+129,—,31-Dec-2008,US,"Electric Utilities (NEC)
++1",09636137
+130,CMS.N,31-Dec-2008,US,"Multiline Utilities
++1",09634871
+131,NVE.N^L13,31-Dec-2008,US,Electric Utilities (NEC),09628725
+132,NSARO.PK,31-Dec-2008,US,Electric Utilities (NEC),09581576
+133,PEGY.OQ,31-Dec-2007,US,Electric Utilities (NEC),08725153
+134,—,31-Dec-2007,US,"Corporate Financial Services (NEC)
++1",08685193
+135,HSLPP.PK^H09,31-Dec-2007,US,Electric Utilities (NEC),08683976
+136,SCG_p.N^L09,31-Dec-2007,US,Electric Utilities (NEC),08652927
+137,EE.N^G20,31-Dec-2007,US,Electric Utilities (NEC),08652351
+138,NRG.N,31-Dec-2007,US,Electric Utilities (NEC),08651166
+139,LNT.OQ,31-Dec-2007,US,Electric Utilities (NEC),08651631
+140,D.N,31-Dec-2007,US,Electric Utilities (NEC),08648615
+141,CNL.N^D16,31-Dec-2007,US,Electric Utilities (NEC),08647954
+142,—,31-Dec-2007,PH,Electric Utilities (NEC),08646078
+143,GEN.N^L12,31-Dec-2007,US,Fossil Fuel Electric Utilities,08642277
+144,CMS.N,31-Dec-2007,US,"Multiline Utilities
++1",08633779
+145,AES.N,31-Dec-2006,US,Electric Utilities (NEC),07874590
+146,CPN.N^C18,31-Dec-2006,US,Electric Utilities (NEC),07692114
+147,—,31-Dec-2006,US,Electric Utilities (NEC),07679280
+148,DUK.N,31-Dec-2006,US,Electric Utilities (NEC),07664806
+149,PNM.N,31-Dec-2006,US,Electric Utilities (NEC),07662955
+150,AGR.N,30-Dec-2006,US,"Electric Utilities (NEC)
++1",07660306
+151,SCE_pe.A^I20,31-Dec-2006,US,Electric Utilities (NEC),07655550
+152,EIX.N,31-Dec-2006,US,Electric Utilities (NEC),07655505
+153,PPWLO.PK,31-Mar-2006,US,Electric Utilities (NEC),06871800
+154,CPN.N^C18,31-Dec-2005,US,Electric Utilities (NEC),06853609
+155,EPGRQ.PK,31-Dec-2005,US,Electric Utilities (NEC),06715913
+156,ANTEM.PK^C11,31-Dec-2005,US,Electric Utilities (NEC),06682869
+157,—,31-Dec-2005,US,Electric Utilities (NEC),06680493
+158,WREGH.PK^F02,31-Dec-2005,US,Electric Utilities (NEC),06680472
+159,CNLPL.PK,31-Dec-2005,US,Electric Utilities (NEC),06679920
+160,NSARO.PK,31-Dec-2005,US,Electric Utilities (NEC),06671333
+161,AEE.N,31-Dec-2005,US,"Multiline Utilities
++2",06670808
+162,DAYPO.PK^J16,31-Dec-2005,US,Electric Utilities (NEC),06670788
+163,IDA.N,31-Dec-2005,US,Electric Utilities (NEC),06670136
+164,—,31-Dec-2005,US,Electric Utilities (NEC),06669311
+165,—,31-Dec-2005,US,Electric Utilities (NEC),06669285
+166,—,31-Dec-2005,US,Electric Utilities (NEC),06664992
+167,—,31-Dec-2005,US,Electric Utilities (NEC),06664768
+168,CNL.N^D16,31-Dec-2005,US,Electric Utilities (NEC),06652420
+169,OGE.N,31-Dec-2005,US,Electric Utilities (NEC),06641003
+170,NMK_pb.N,31-Mar-2005,US,Electric Utilities (NEC),05924081
+171,—,31-Dec-2004,US,Electric Utilities (NEC),05714116
+172,PEGY.OQ,31-Dec-2004,US,Electric Utilities (NEC),05714050
+173,RKE.A^E06,31-Dec-2004,US,Electric Utilities (NEC),05707857
+174,ORA.N,31-Dec-2004,US,Alternative Electric Utilities,05707421
+175,DQUEK.PK^D15,31-Dec-2004,US,Electric Utilities (NEC),05706821
+176,IPL.N^C01,31-Dec-2004,US,Electric Utilities (NEC),05702583
+177,MAM.A^L10,31-Dec-2004,US,Electric Utilities (NEC),05702439
+178,—,31-Dec-2004,US,Electric Utilities (NEC),05687273
+179,KOMG.OQ^I07,02-Jan-2005,US,Electric Utilities (NEC),05687267
+180,—,31-Dec-2004,US,Electric Utilities (NEC),05685534
+181,AZD.N^A00,31-Dec-2004,US,Electric Utilities (NEC),05685560
+182,DELML.OB^B07,31-Dec-2004,US,Electric Utilities (NEC),05684577
+183,EIX.N,31-Dec-2004,US,Electric Utilities (NEC),05684261
+184,FLPWP.PK^C13,31-Dec-2004,US,Electric Utilities (NEC),05684140
+185,—,31-Dec-2004,US,Electric Utilities (NEC),05683404
+186,—,31-Dec-2004,US,Electric Utilities (NEC),05683398
+187,—,31-Dec-2004,US,Electric Utilities (NEC),05682898
+188,WREGH.PK^F02,31-Dec-2004,US,Electric Utilities (NEC),05682879
+189,—,31-Dec-2004,US,—,05682707
+190,EE.N^G20,31-Dec-2004,US,Electric Utilities (NEC),05679378
+191,CNL.N^D16,31-Dec-2004,US,Electric Utilities (NEC),05679006
+192,AGR.N,31-Dec-2004,US,"Electric Utilities (NEC)
++1",05678881
+193,OTTR.OQ,31-Dec-2004,US,Electric Utilities (NEC),05678899
+194,DPL.N^K11,31-Dec-2004,US,Electric Utilities (NEC),05676434
+195,HAWLI.PK,31-Dec-2004,US,Electric Utilities (NEC),05675197
+196,WELPP.PK,31-Dec-2004,US,Electric Utilities (NEC),05675050
+197,—,31-Dec-2004,US,Electric Utilities (NEC),05673702
+198,—,31-Dec-2004,US,Electric Utilities (NEC),05668916
+199,—,31-Dec-2004,US,Investment Holding Companies (NEC),05668910
+200,TEG.N^F15,31-Dec-2004,US,"Multiline Utilities
++1",05668457
+201,—,31-Dec-2004,US,Electric Utilities (NEC),05663124
+202,LNT.OQ,31-Dec-2004,US,Electric Utilities (NEC),05660503
+203,—,31-Dec-2004,US,Electric Utilities (NEC),05659480
+204,—,31-Dec-2004,US,Fossil Fuel Electric Utilities,05648459
+205,ELB.N^L03,31-Dec-2004,US,Electric Utilities (NEC),05642761
+206,CIN.N^D06,31-Dec-2004,US,"Multiline Utilities
++1",05641874
+207,—,31-Dec-2003,US,Electric Utilities (NEC),04678528
+208,NRG.N,31-Dec-2003,US,Electric Utilities (NEC),04673424
+209,CVE_p.N^C05,31-Dec-2003,US,Electric Utilities (NEC),04668527
+210,DELML.OB^B07,31-Dec-2003,US,Electric Utilities (NEC),04664571
+211,—,31-Dec-2003,US,Electric Utilities (NEC),04664565
+212,MPN_pa.A^I07,31-Dec-2003,US,Electric Utilities (NEC),04663273
+213,AYE.N^B11,31-Dec-2003,US,Electric Utilities (NEC),04663191
+214,EAI.N,31-Dec-2003,US,Electric Utilities (NEC),04661295
+215,KOMG.OQ^I07,28-Dec-2003,US,Electric Utilities (NEC),04653502
+216,—,31-Dec-2003,US,"—
++3",04634487
+217,ED.N,31-Dec-2003,US,Electric Utilities (NEC),04625392
+218,MIR.N^L10,31-Dec-2002,US,Electric Utilities (NEC),03670781
+219,—,31-Dec-2002,US,Electric Utilities (NEC),03659636
+220,NRG.N,31-Dec-2002,US,Electric Utilities (NEC),03628641
+221,KUTLP.PK^J05,31-Dec-2002,US,"Electric Utilities (NEC)
++1",03615537
+222,DTE.N,31-Dec-2002,US,Electric Utilities (NEC),03613972
+223,APPWM.OB^K11,31-Dec-2002,US,Electric Utilities (NEC),03610930
+224,—,31-Dec-2002,US,Electric Utilities (NEC),03604735
+225,—,31-Dec-2002,US,Electric Utilities (NEC),03604735
+226,BGLEN.PK^I16,31-Dec-2002,US,"Electric Utilities (NEC)
++1",03596292
+227,IDA.N,31-Dec-2002,US,Electric Utilities (NEC),03595843
+228,—,31-Dec-2001,US,"—
++3",02598415
+229,—,31-Dec-2001,US,Electric Utilities (NEC),02595345
+230,—,31-Dec-2001,US,"Investment Holding Companies (NEC)
++1",02591044
+231,ES.N,31-Dec-2001,US,Electric Utilities (NEC),02582925
+232,D.N,31-Dec-2001,US,Electric Utilities (NEC),02572477
+233,OGE.N,31-Dec-2000,US,Electric Utilities (NEC),01579180
+234,UIL.N^L15,31-Dec-2000,US,Electric Utilities (NEC),01565247
+235,—,31-Dec-1999,US,Electric Utilities (NEC),00592840
+236,NST.DG^D12,31-Dec-1999,US,Electric Utilities (NEC),00587260
+237,ATXCH.PK^K11,31-Dec-1999,US,Electric Utilities (NEC),00575178
